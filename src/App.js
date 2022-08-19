@@ -7,8 +7,6 @@ import { Navbar, Footer, Sidebar, ThemeSettings } from './components'
 import { Ecommerce, Orders, Calendar, Employees, Stacked, Pyramid, Customers, Kanban, Area, Bar, Line, Pie, Financial, ColorPicker, ColorMapping, Editor } from './pages';
 
 import './App.css';
-// import { Button } from '@syncfusion/ej2/buttons';
-// import { Sidebar } from '@syncfusion/ej2/navigations';
 
 const App = () => {
   const activeMenu = true;
