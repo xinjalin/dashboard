@@ -1,6 +1,14 @@
-React App
+React App - Work in progress
 
 This App is a Dashboard/Shopping interface with many diffrent charts and views.
+
+Dashboard
+  - Ecommerce
+
+Pages
+  - Orders
+  - Employees
+  - Customers
 
 Apps
   - Calender
